@@ -1,0 +1,14 @@
+__pycache__/
+venv/
+/data/licenseplate/
+weights/
+results/
+onnx_trt/
+ignore/
+pycuda/
+
+convert_label_format*
+
+*.zip
+*.onnx
+*.mp4
